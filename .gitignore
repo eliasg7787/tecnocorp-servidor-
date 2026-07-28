@@ -1,0 +1,20 @@
+# Claves privadas
+*.key
+*.pem
+rndc.key
+# Credenciales y secretos
+*.secret
+*.password
+credentials*
+secrets*
+# Archivos sensibles del sistema
+shadow
+shadow-
+gshadow
+gshadow-
+# Backups y archivos temporales
+*.bak
+*.backup
+*.swp
+*~
+

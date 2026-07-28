@@ -1,0 +1,4 @@
+
+-w /etc/passwd -p wa -k passwd_changes
+-w /etc/passwd -p wa -k shadow_changes
+
